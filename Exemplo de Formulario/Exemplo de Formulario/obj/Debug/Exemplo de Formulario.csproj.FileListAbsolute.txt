@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\bin\Exemplo de Formulario.dll.config
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\bin\Exemplo de Formulario.dll
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\bin\Exemplo de Formulario.pdb
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\obj\Debug\Exemplo de Formulario.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\obj\Debug\Exemplo de Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\obj\Debug\Exemplo de Formulario.dll
+C:\Users\Matheus\Desktop\IFSP\ASP NET\Exemplo de Formulario\Exemplo de Formulario\obj\Debug\Exemplo de Formulario.pdb
